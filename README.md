@@ -2,4 +2,4 @@
 
 Hasil:
 
-![Tampilan](ScreenShot/SS1.jpeg) ![Hello](ScreenShot/SS2.jpeg)
+![Tampilan](ScreenShot/SS1.jpeg) ![](ScreenShot/SS2.jpeg) ![](ScreenShot/SS3.jpeg)
