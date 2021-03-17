@@ -1,4 +1,4 @@
-# android_pbb_praktikum1
+# android-pertama-ppb
 
 Hasil:
 
